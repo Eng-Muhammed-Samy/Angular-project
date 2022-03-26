@@ -1,0 +1,10 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Mohamed",
+      "email": "eng.muhamed.samy@gmail.com",
+      "address": "zagazig"
+    }
+  ]
+}
